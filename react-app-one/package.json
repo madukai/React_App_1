@@ -2,6 +2,10 @@
   "name": "react-app-one",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.14.2",
+    "npm": "6.4.1"
+  },
   "dependencies": {
     "bootstrap": "^4.2.1",
     "react": "^16.7.0",
